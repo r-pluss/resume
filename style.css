@@ -43,6 +43,10 @@ section > p {
   padding-left: 2em;
 }
 
+.details {
+    margin-left: 1em;
+}
+
 .education-item {
   display: flex;
   flex-direction: row;
