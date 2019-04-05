@@ -54,7 +54,7 @@ section > p {
 }
 
 .education-item > .timespan {
-  width: 10%;
+  max-width: 15%;
 }
 
 .education-item .item-name {
@@ -84,7 +84,7 @@ section > p {
 }
 
 .employment-item > .timespan {
-  width: 10%;
+  max-width: 15%;
 }
 
 .item-points {
