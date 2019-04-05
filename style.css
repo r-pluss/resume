@@ -67,7 +67,7 @@ section > p {
 
 .employment-item {
   display: flex;
-  flex-direction: flex-row;
+  flex-direction: row;
   width: 100%;
 }
 
